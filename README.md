@@ -1,4 +1,4 @@
-** A more full featured googlescholar scraper is available at https://github.com/ckreibich/scholar.py nice work by Christain & fairly well maintained
+This is not currently being maintained, it will remain here for archive purposes.
 
 
 Requirements
@@ -17,4 +17,3 @@ gscholar('phrase')
 NOTICE
 ======
 - Google Scholar limits automated scraping and has no public API (though you probably know this) so more often than not if making any volume of requests with this you WILL be shut out.
-
